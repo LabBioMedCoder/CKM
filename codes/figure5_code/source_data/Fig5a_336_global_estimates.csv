@@ -1,0 +1,337 @@
+model,model_label,outcome,module,module_label,beta,q_bh,display_y
+Base,Basic covariates,GMV,Immune System | positive,Immune system · Higher,-0.028590246374121782,0.21358259125509793,-0.42000000000000004
+Base,Basic covariates,GMV,Immune System | negative,Immune system · Lower,-0.024651299492748024,0.2659144699298211,-0.42000000000000004
+Base,Basic covariates,GMV,Metabolism | positive,Metabolism · Higher,-0.01704024261736572,0.5646261502717016,0.0
+Base,Basic covariates,GMV,Metabolism | negative,Metabolism · Lower,-0.043225358970233316,0.0527774397133267,0.0
+Base,Basic covariates,GMV,Hemostasis | positive,Hemostasis · Higher,-0.029115143835432625,0.21358259125509793,-0.28
+Base,Basic covariates,GMV,Hemostasis | negative,Hemostasis · Lower,-0.01366118275970153,0.7093243431918492,0.28
+Base,Basic covariates,GMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.030756258242492607,0.21358259125509793,0.35000000000000003
+Base,Basic covariates,GMV,Extracellular matrix organization | negative,ECM organization · Lower,-0.026615549511018455,0.24091296046652683,-0.42000000000000004
+Base,Basic covariates,GMV,Signal Transduction | positive,Signal transduction · Higher,-0.02476200545015225,0.24091296046652683,-0.42000000000000004
+Base,Basic covariates,GMV,Signal Transduction | negative,Signal transduction · Lower,-0.03190503323569285,0.21358259125509793,0.0
+Base,Basic covariates,GMV,Neuronal System | positive,Neuronal system · Higher,-0.00998405785187196,0.7423352048804961,-0.21000000000000002
+Base,Basic covariates,GMV,Neuronal System | negative,Neuronal system · Lower,-0.023905513930000698,0.2688742382282177,-0.42000000000000004
+A,CKM adjusted,GMV,Immune System | positive,Immune system · Higher,-0.0206538126375074,0.5758728844288755,0.58
+A,CKM adjusted,GMV,Immune System | negative,Immune system · Lower,-0.0141244155205886,0.8410923693587428,1.1400000000000001
+A,CKM adjusted,GMV,Metabolism | positive,Metabolism · Higher,-0.008663248556145,0.8410923693587428,0.86
+A,CKM adjusted,GMV,Metabolism | negative,Metabolism · Lower,-0.0332361837632339,0.4840647596706382,1.0
+A,CKM adjusted,GMV,Hemostasis | positive,Hemostasis · Higher,-0.0214118789675199,0.5758728844288755,0.6499999999999999
+A,CKM adjusted,GMV,Hemostasis | negative,Hemostasis · Lower,-0.0075969045586056,0.8410923693587428,1.42
+A,CKM adjusted,GMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.0233904536928438,0.5758728844288755,1.0
+A,CKM adjusted,GMV,Extracellular matrix organization | negative,ECM organization · Lower,-0.0169310572852403,0.7295127890858472,0.58
+A,CKM adjusted,GMV,Signal Transduction | positive,Signal transduction · Higher,-0.0178763379368621,0.6617563614760446,0.58
+A,CKM adjusted,GMV,Signal Transduction | negative,Signal transduction · Lower,-0.0218234693465657,0.5758728844288755,1.35
+A,CKM adjusted,GMV,Neuronal System | positive,Neuronal system · Higher,-0.0062619082105644,0.8410923693587428,0.58
+A,CKM adjusted,GMV,Neuronal System | negative,Neuronal system · Lower,-0.0155519342946303,0.7632896891332619,0.58
+B,BMI adjusted,GMV,Immune System | positive,Immune system · Higher,-0.007278231541562,0.9889367167190354,1.58
+B,BMI adjusted,GMV,Immune System | negative,Immune system · Lower,0.0022179031141604,0.9889367167190354,1.58
+B,BMI adjusted,GMV,Metabolism | positive,Metabolism · Higher,0.0035151531402997,0.9889367167190354,1.58
+B,BMI adjusted,GMV,Metabolism | negative,Metabolism · Lower,-0.0101849965909339,0.9889367167190354,2.35
+B,BMI adjusted,GMV,Hemostasis | positive,Hemostasis · Higher,-0.0101769606594478,0.9889367167190354,1.65
+B,BMI adjusted,GMV,Hemostasis | negative,Hemostasis · Lower,0.0016103688605586,0.9889367167190354,1.58
+B,BMI adjusted,GMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.0115698300497597,0.9889367167190354,2.0
+B,BMI adjusted,GMV,Extracellular matrix organization | negative,ECM organization · Lower,0.0013003980721593,0.9889367167190354,2.35
+B,BMI adjusted,GMV,Signal Transduction | positive,Signal transduction · Higher,-0.0078699280321251,0.9889367167190354,1.58
+B,BMI adjusted,GMV,Signal Transduction | negative,Signal transduction · Lower,-0.0017616848981082,0.9889367167190354,1.58
+B,BMI adjusted,GMV,Neuronal System | positive,Neuronal system · Higher,-0.002073493676727,0.9889367167190354,2.07
+B,BMI adjusted,GMV,Neuronal System | negative,Neuronal system · Lower,0.0057821849732629,0.9889367167190354,1.58
+R,Renal adjusted,GMV,Immune System | positive,Immune system · Higher,-0.009431436339174,0.9084403990551874,2.98
+R,Renal adjusted,GMV,Immune System | negative,Immune system · Lower,0.0026559871856316,0.9788348668067406,2.98
+R,Renal adjusted,GMV,Metabolism | positive,Metabolism · Higher,0.0028796119904296,0.9788348668067406,2.98
+R,Renal adjusted,GMV,Metabolism | negative,Metabolism · Lower,-0.0098821024662488,0.9084403990551874,3.12
+R,Renal adjusted,GMV,Hemostasis | positive,Hemostasis · Higher,-0.0114819603396744,0.9084403990551874,3.6799999999999997
+R,Renal adjusted,GMV,Hemostasis | negative,Hemostasis · Lower,0.0018846623702358,0.9788348668067406,3.12
+R,Renal adjusted,GMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.0149224490177848,0.9084403990551874,3.4
+R,Renal adjusted,GMV,Extracellular matrix organization | negative,ECM organization · Lower,0.0019052766329137,0.9788348668067406,2.98
+R,Renal adjusted,GMV,Signal Transduction | positive,Signal transduction · Higher,-0.0092812658648873,0.9084403990551874,2.98
+R,Renal adjusted,GMV,Signal Transduction | negative,Signal transduction · Lower,-0.0014048423945071,0.9788348668067406,3.75
+R,Renal adjusted,GMV,Neuronal System | positive,Neuronal system · Higher,-0.0024595429143502,0.9788348668067406,3.4
+R,Renal adjusted,GMV,Neuronal System | negative,Neuronal system · Lower,0.0057360296074186,0.9788348668067406,2.98
+G,Glycaemic adjusted,GMV,Immune System | positive,Immune system · Higher,-0.0073106833007343,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,GMV,Immune System | negative,Immune system · Lower,0.0033691212698233,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,GMV,Metabolism | positive,Metabolism · Higher,0.0038640581254752,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,GMV,Metabolism | negative,Metabolism · Lower,-0.0085964703960715,0.9789800107427502,4.12
+G,Glycaemic adjusted,GMV,Hemostasis | positive,Hemostasis · Higher,-0.0102820464754159,0.9789800107427502,4.75
+G,Glycaemic adjusted,GMV,Hemostasis | negative,Hemostasis · Lower,0.0023553251089352,0.9789800107427502,4.82
+G,Glycaemic adjusted,GMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.0118949674474995,0.9789800107427502,4.4
+G,Glycaemic adjusted,GMV,Extracellular matrix organization | negative,ECM organization · Lower,0.0028291911885601,0.9789800107427502,4.260000000000001
+G,Glycaemic adjusted,GMV,Signal Transduction | positive,Signal transduction · Higher,-0.0080613873378397,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,GMV,Signal Transduction | negative,Signal transduction · Lower,-0.000356008142217,0.9820747470545196,3.9800000000000004
+G,Glycaemic adjusted,GMV,Neuronal System | positive,Neuronal system · Higher,-0.0025994611020034,0.9789800107427502,4.54
+G,Glycaemic adjusted,GMV,Neuronal System | negative,Neuronal system · Lower,0.006196965560764,0.9789800107427502,3.9800000000000004
+V,Vascular–lipid adjusted,GMV,Immune System | positive,Immune system · Higher,-0.0055529082963445,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,GMV,Immune System | negative,Immune system · Lower,-0.0014350021164384,0.9845990931347304,5.470000000000001
+V,Vascular–lipid adjusted,GMV,Metabolism | positive,Metabolism · Higher,0.0070336391177706,0.9845990931347304,5.260000000000001
+V,Vascular–lipid adjusted,GMV,Metabolism | negative,Metabolism · Lower,-0.0159487450627843,0.9845990931347304,5.4
+V,Vascular–lipid adjusted,GMV,Hemostasis | positive,Hemostasis · Higher,-0.0079918836822116,0.9845990931347304,5.19
+V,Vascular–lipid adjusted,GMV,Hemostasis | negative,Hemostasis · Lower,-0.0030028069875745,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,GMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.0097424148085873,0.9845990931347304,5.680000000000001
+V,Vascular–lipid adjusted,GMV,Extracellular matrix organization | negative,ECM organization · Lower,-0.0012797820897875,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,GMV,Signal Transduction | positive,Signal transduction · Higher,-0.005667024361991,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,GMV,Signal Transduction | negative,Signal transduction · Lower,-0.0062939199344991,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,GMV,Neuronal System | positive,Neuronal system · Higher,-0.0002912326821115,0.9845990931347304,5.82
+V,Vascular–lipid adjusted,GMV,Neuronal System | negative,Neuronal system · Lower,0.0031384337282644,0.9845990931347304,4.98
+F,Combined adjustment,GMV,Immune System | positive,Immune system · Higher,-0.0070061568218845,0.9925700830154698,6.38
+F,Combined adjustment,GMV,Immune System | negative,Immune system · Lower,-0.0002500082751349,0.9925700830154698,6.38
+F,Combined adjustment,GMV,Metabolism | positive,Metabolism · Higher,0.0070587406275404,0.9925700830154698,7.01
+F,Combined adjustment,GMV,Metabolism | negative,Metabolism · Lower,-0.0144324349466854,0.9925700830154698,6.8
+F,Combined adjustment,GMV,Hemostasis | positive,Hemostasis · Higher,-0.0089173056931971,0.9925700830154698,6.52
+F,Combined adjustment,GMV,Hemostasis | negative,Hemostasis · Lower,-0.0023192816093201,0.9925700830154698,6.38
+F,Combined adjustment,GMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.0124805515663847,0.9925700830154698,7.1499999999999995
+F,Combined adjustment,GMV,Extracellular matrix organization | negative,ECM organization · Lower,0.0002930150636558,0.9925700830154698,6.38
+F,Combined adjustment,GMV,Signal Transduction | positive,Signal transduction · Higher,-0.0068034710118516,0.9925700830154698,6.38
+F,Combined adjustment,GMV,Signal Transduction | negative,Signal transduction · Lower,-0.0049879369758509,0.9925700830154698,6.9399999999999995
+F,Combined adjustment,GMV,Neuronal System | positive,Neuronal system · Higher,-0.0009962035805076,0.9925700830154698,7.22
+F,Combined adjustment,GMV,Neuronal System | negative,Neuronal system · Lower,0.0032792035603076,0.9925700830154698,6.7299999999999995
+Base,Basic covariates,PCGMV,Immune System | positive,Immune system · Higher,-0.0123881738516923,0.7093243431918492,-0.42000000000000004
+Base,Basic covariates,PCGMV,Immune System | negative,Immune system · Lower,-7.42471133610502e-05,0.9959643083226554,-0.42000000000000004
+Base,Basic covariates,PCGMV,Metabolism | positive,Metabolism · Higher,-0.0029732632461682367,0.9463510950580792,-0.42000000000000004
+Base,Basic covariates,PCGMV,Metabolism | negative,Metabolism · Lower,-0.015151021504502987,0.6445404062217291,0.35000000000000003
+Base,Basic covariates,PCGMV,Hemostasis | positive,Hemostasis · Higher,-0.013916316811096384,0.6667802181890384,-0.35000000000000003
+Base,Basic covariates,PCGMV,Hemostasis | negative,Hemostasis · Lower,0.00557063033774091,0.9463510950580792,0.0
+Base,Basic covariates,PCGMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.016319319746552218,0.6382415091460606,0.0
+Base,Basic covariates,PCGMV,Extracellular matrix organization | negative,ECM organization · Lower,-0.0033359528547365763,0.9463510950580792,0.35000000000000003
+Base,Basic covariates,PCGMV,Signal Transduction | positive,Signal transduction · Higher,-0.01121102915493545,0.7203991583381958,-0.42000000000000004
+Base,Basic covariates,PCGMV,Signal Transduction | negative,Signal transduction · Lower,-0.0056282017353397,0.9463510950580792,0.0
+Base,Basic covariates,PCGMV,Neuronal System | positive,Neuronal system · Higher,-0.0027812201618347687,0.9463510950580792,-0.42000000000000004
+Base,Basic covariates,PCGMV,Neuronal System | negative,Neuronal system · Lower,0.0009330783443295424,0.9885355451448373,-0.42000000000000004
+A,CKM adjusted,PCGMV,Immune System | positive,Immune system · Higher,-0.0065743851436847,0.8410923693587428,0.58
+A,CKM adjusted,PCGMV,Immune System | negative,Immune system · Lower,0.0085661468266411,0.8410923693587428,0.58
+A,CKM adjusted,PCGMV,Metabolism | positive,Metabolism · Higher,0.0033450959536679,0.9756142915967596,0.72
+A,CKM adjusted,PCGMV,Metabolism | negative,Metabolism · Lower,-0.0069447467592242,0.8410923693587428,0.72
+A,CKM adjusted,PCGMV,Hemostasis | positive,Hemostasis · Higher,-0.0082290117541279,0.8410923693587428,1.35
+A,CKM adjusted,PCGMV,Hemostasis | negative,Hemostasis · Lower,0.0101713329854036,0.8410923693587428,1.0
+A,CKM adjusted,PCGMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.0109081017913812,0.8410923693587428,1.0
+A,CKM adjusted,PCGMV,Extracellular matrix organization | negative,ECM organization · Lower,0.0043299182161828,0.9521150299374168,0.58
+A,CKM adjusted,PCGMV,Signal Transduction | positive,Signal transduction · Higher,-0.0061922984690986,0.8410923693587428,0.58
+A,CKM adjusted,PCGMV,Signal Transduction | negative,Signal transduction · Lower,0.002546095717114,0.982023240611682,1.35
+A,CKM adjusted,PCGMV,Neuronal System | positive,Neuronal system · Higher,-0.0001477077625471,0.9918194888485083,1.0
+A,CKM adjusted,PCGMV,Neuronal System | negative,Neuronal system · Lower,0.007483261950409,0.8410923693587428,0.58
+B,BMI adjusted,PCGMV,Immune System | positive,Immune system · Higher,-0.0025665147595583,0.9889367167190354,1.58
+B,BMI adjusted,PCGMV,Immune System | negative,Immune system · Lower,0.0142608781123528,0.9889367167190354,1.58
+B,BMI adjusted,PCGMV,Metabolism | positive,Metabolism · Higher,0.0072055316554129,0.9889367167190354,2.0
+B,BMI adjusted,PCGMV,Metabolism | negative,Metabolism · Lower,0.0004254614839116,0.9911822030735972,1.58
+B,BMI adjusted,PCGMV,Hemostasis | positive,Hemostasis · Higher,-0.004904882098846,0.9889367167190354,2.35
+B,BMI adjusted,PCGMV,Hemostasis | negative,Hemostasis · Lower,0.0131686929624403,0.9889367167190354,1.58
+B,BMI adjusted,PCGMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.0074788803195353,0.9889367167190354,2.0
+B,BMI adjusted,PCGMV,Extracellular matrix organization | negative,ECM organization · Lower,0.0105325457397865,0.9889367167190354,1.72
+B,BMI adjusted,PCGMV,Signal Transduction | positive,Signal transduction · Higher,-0.0032017567777227,0.9889367167190354,1.72
+B,BMI adjusted,PCGMV,Signal Transduction | negative,Signal transduction · Lower,0.0094513131653743,0.9889367167190354,2.35
+B,BMI adjusted,PCGMV,Neuronal System | positive,Neuronal system · Higher,0.0011194512290804,0.9889367167190354,1.58
+B,BMI adjusted,PCGMV,Neuronal System | negative,Neuronal system · Lower,0.0151815850071105,0.9889367167190354,1.58
+R,Renal adjusted,PCGMV,Immune System | positive,Immune system · Higher,-0.0105432690459384,0.9084403990551874,3.61
+R,Renal adjusted,PCGMV,Immune System | negative,Immune system · Lower,0.0164879478736762,0.9084403990551874,2.98
+R,Renal adjusted,PCGMV,Metabolism | positive,Metabolism · Higher,0.0038075729262855,0.9788348668067406,3.12
+R,Renal adjusted,PCGMV,Metabolism | negative,Metabolism · Lower,0.0021553714259184,0.9788348668067406,3.6799999999999997
+R,Renal adjusted,PCGMV,Hemostasis | positive,Hemostasis · Higher,-0.009864842091027,0.9084403990551874,3.19
+R,Renal adjusted,PCGMV,Hemostasis | negative,Hemostasis · Lower,0.0145642244798775,0.9084403990551874,3.12
+R,Renal adjusted,PCGMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.018087867382343,0.9084403990551874,3.4
+R,Renal adjusted,PCGMV,Extracellular matrix organization | negative,ECM organization · Lower,0.0136288016643557,0.9084403990551874,3.75
+R,Renal adjusted,PCGMV,Signal Transduction | positive,Signal transduction · Higher,-0.0087226857430622,0.9084403990551874,2.98
+R,Renal adjusted,PCGMV,Signal Transduction | negative,Signal transduction · Lower,0.0113349018860218,0.9084403990551874,3.4
+R,Renal adjusted,PCGMV,Neuronal System | positive,Neuronal system · Higher,-0.0007559335538546,0.9788348668067406,3.4
+R,Renal adjusted,PCGMV,Neuronal System | negative,Neuronal system · Lower,0.0149480143083488,0.9084403990551874,2.98
+G,Glycaemic adjusted,PCGMV,Immune System | positive,Immune system · Higher,-0.0028152601411676,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,PCGMV,Immune System | negative,Immune system · Lower,0.0150812788195176,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,PCGMV,Metabolism | positive,Metabolism · Higher,0.0071414523470668,0.9789800107427502,4.4
+G,Glycaemic adjusted,PCGMV,Metabolism | negative,Metabolism · Lower,0.0013758560229631,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,PCGMV,Hemostasis | positive,Hemostasis · Higher,-0.0052674846026944,0.9789800107427502,4.75
+G,Glycaemic adjusted,PCGMV,Hemostasis | negative,Hemostasis · Lower,0.0139702570377191,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,PCGMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.0080032567116702,0.9789800107427502,4.4
+G,Glycaemic adjusted,PCGMV,Extracellular matrix organization | negative,ECM organization · Lower,0.0115083788449535,0.9789800107427502,4.12
+G,Glycaemic adjusted,PCGMV,Signal Transduction | positive,Signal transduction · Higher,-0.0035356601904435,0.9789800107427502,4.12
+G,Glycaemic adjusted,PCGMV,Signal Transduction | negative,Signal transduction · Lower,0.0105514041195657,0.9789800107427502,4.680000000000001
+G,Glycaemic adjusted,PCGMV,Neuronal System | positive,Neuronal system · Higher,0.0007522197360052,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,PCGMV,Neuronal System | negative,Neuronal system · Lower,0.0157097657922481,0.9789800107427502,3.9800000000000004
+V,Vascular–lipid adjusted,PCGMV,Immune System | positive,Immune system · Higher,0.0009586859929704,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,PCGMV,Immune System | negative,Immune system · Lower,0.0120710944943269,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,PCGMV,Metabolism | positive,Metabolism · Higher,0.0128631673429388,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,PCGMV,Metabolism | negative,Metabolism · Lower,-0.0031272495241486,0.9845990931347304,5.75
+V,Vascular–lipid adjusted,PCGMV,Hemostasis | positive,Hemostasis · Higher,-0.0002936411540157,0.9845990931347304,5.12
+V,Vascular–lipid adjusted,PCGMV,Hemostasis | negative,Hemostasis · Lower,0.0091774383489368,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,PCGMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.004339297816059,0.9845990931347304,5.4
+V,Vascular–lipid adjusted,PCGMV,Extracellular matrix organization | negative,ECM organization · Lower,0.008231024345175,0.9845990931347304,5.75
+V,Vascular–lipid adjusted,PCGMV,Signal Transduction | positive,Signal transduction · Higher,0.0009072831322201,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,PCGMV,Signal Transduction | negative,Signal transduction · Lower,0.006067326938945,0.9845990931347304,5.4
+V,Vascular–lipid adjusted,PCGMV,Neuronal System | positive,Neuronal system · Higher,0.0041243270726118,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,PCGMV,Neuronal System | negative,Neuronal system · Lower,0.0122416242258107,0.9845990931347304,4.98
+F,Combined adjustment,PCGMV,Immune System | positive,Immune system · Higher,-0.0066262233568611,0.9925700830154698,7.01
+F,Combined adjustment,PCGMV,Immune System | negative,Immune system · Lower,0.0159999402130985,0.9925700830154698,6.38
+F,Combined adjustment,PCGMV,Metabolism | positive,Metabolism · Higher,0.0097936805157339,0.9925700830154698,6.66
+F,Combined adjustment,PCGMV,Metabolism | negative,Metabolism · Lower,0.0005481066557973,0.9925700830154698,7.22
+F,Combined adjustment,PCGMV,Hemostasis | positive,Hemostasis · Higher,-0.0052230438144107,0.9925700830154698,6.66
+F,Combined adjustment,PCGMV,Hemostasis | negative,Hemostasis · Lower,0.0117962139703745,0.9925700830154698,6.38
+F,Combined adjustment,PCGMV,Extracellular matrix organization | positive,ECM organization · Higher,-0.0148469577579924,0.9925700830154698,6.8
+F,Combined adjustment,PCGMV,Extracellular matrix organization | negative,ECM organization · Lower,0.0129103950478465,0.9925700830154698,6.38
+F,Combined adjustment,PCGMV,Signal Transduction | positive,Signal transduction · Higher,-0.0044729803653482,0.9925700830154698,6.38
+F,Combined adjustment,PCGMV,Signal Transduction | negative,Signal transduction · Lower,0.0099045150466758,0.9925700830154698,7.08
+F,Combined adjustment,PCGMV,Neuronal System | positive,Neuronal system · Higher,0.0022801558937563,0.9925700830154698,6.87
+F,Combined adjustment,PCGMV,Neuronal System | negative,Neuronal system · Lower,0.0129446452545414,0.9925700830154698,6.38
+Base,Basic covariates,WMV_matter,Immune System | positive,Immune system · Higher,0.008155227801406107,0.9021847221076074,-0.42000000000000004
+Base,Basic covariates,WMV_matter,Immune System | negative,Immune system · Lower,0.03275783691221654,0.21358259125509793,-0.28
+Base,Basic covariates,WMV_matter,Metabolism | positive,Metabolism · Higher,0.005438472475465512,0.9463510950580792,-0.42000000000000004
+Base,Basic covariates,WMV_matter,Metabolism | negative,Metabolism · Lower,0.04782602983435688,0.0527774397133267,0.0
+Base,Basic covariates,WMV_matter,Hemostasis | positive,Hemostasis · Higher,0.014091584863346619,0.7093243431918492,0.35000000000000003
+Base,Basic covariates,WMV_matter,Hemostasis | negative,Hemostasis · Lower,0.01353742779154301,0.7203991583381958,0.0
+Base,Basic covariates,WMV_matter,Extracellular matrix organization | positive,ECM organization · Higher,0.004095210536065516,0.9463510950580792,0.35000000000000003
+Base,Basic covariates,WMV_matter,Extracellular matrix organization | negative,ECM organization · Lower,0.028586983881667853,0.24091296046652683,0.35000000000000003
+Base,Basic covariates,WMV_matter,Signal Transduction | positive,Signal transduction · Higher,0.004259603483953954,0.9463510950580792,-0.28
+Base,Basic covariates,WMV_matter,Signal Transduction | negative,Signal transduction · Lower,0.03768288430656365,0.18207221354335582,0.0
+Base,Basic covariates,WMV_matter,Neuronal System | positive,Neuronal system · Higher,0.0014457326458610941,0.9848136752435414,0.0
+Base,Basic covariates,WMV_matter,Neuronal System | negative,Neuronal system · Lower,0.027623547350227432,0.24091296046652683,0.0
+A,CKM adjusted,WMV_matter,Immune System | positive,Immune system · Higher,0.002400030428272,0.982023240611682,0.58
+A,CKM adjusted,WMV_matter,Immune System | negative,Immune system · Lower,0.028074158810823,0.5758728844288755,0.72
+A,CKM adjusted,WMV_matter,Metabolism | positive,Metabolism · Higher,0.0002134287588608,0.9918194888485083,0.58
+A,CKM adjusted,WMV_matter,Metabolism | negative,Metabolism · Lower,0.0432615134787685,0.3129725895903066,1.0
+A,CKM adjusted,WMV_matter,Hemostasis | positive,Hemostasis · Higher,0.0091136196869293,0.8410923693587428,1.0
+A,CKM adjusted,WMV_matter,Hemostasis | negative,Hemostasis · Lower,0.0101592211052687,0.8410923693587428,1.35
+A,CKM adjusted,WMV_matter,Extracellular matrix organization | positive,ECM organization · Higher,-0.0006990253828971,0.9918194888485083,1.35
+A,CKM adjusted,WMV_matter,Extracellular matrix organization | negative,ECM organization · Lower,0.02308954006023,0.5758728844288755,1.35
+A,CKM adjusted,WMV_matter,Signal Transduction | positive,Signal transduction · Higher,-0.0004622796654608,0.9918194888485083,0.6499999999999999
+A,CKM adjusted,WMV_matter,Signal Transduction | negative,Signal transduction · Lower,0.0324145900023794,0.5291366910215087,1.0
+A,CKM adjusted,WMV_matter,Neuronal System | positive,Neuronal system · Higher,-0.0011253452878424,0.9918194888485083,1.0
+A,CKM adjusted,WMV_matter,Neuronal System | negative,Neuronal system · Lower,0.0224231049161355,0.5758728844288755,1.0
+B,BMI adjusted,WMV_matter,Immune System | positive,Immune system · Higher,-0.0135724851984652,0.9889367167190354,1.65
+B,BMI adjusted,WMV_matter,Immune System | negative,Immune system · Lower,0.0103920738494417,0.9889367167190354,2.21
+B,BMI adjusted,WMV_matter,Metabolism | positive,Metabolism · Higher,-0.013830343217282,0.9889367167190354,2.35
+B,BMI adjusted,WMV_matter,Metabolism | negative,Metabolism · Lower,0.0181074026550773,0.9889367167190354,2.0
+B,BMI adjusted,WMV_matter,Hemostasis | positive,Hemostasis · Higher,-0.0040151010863483,0.9889367167190354,1.79
+B,BMI adjusted,WMV_matter,Hemostasis | negative,Hemostasis · Lower,-0.0001898948367633,0.9911822030735972,1.58
+B,BMI adjusted,WMV_matter,Extracellular matrix organization | positive,ECM organization · Higher,-0.0149067449104451,0.9889367167190354,2.0
+B,BMI adjusted,WMV_matter,Extracellular matrix organization | negative,ECM organization · Lower,0.002844739056667,0.9889367167190354,2.0
+B,BMI adjusted,WMV_matter,Signal Transduction | positive,Signal transduction · Higher,-0.0122318434253111,0.9889367167190354,1.58
+B,BMI adjusted,WMV_matter,Signal Transduction | negative,Signal transduction · Lower,0.0105480888303573,0.9889367167190354,1.79
+B,BMI adjusted,WMV_matter,Neuronal System | positive,Neuronal system · Higher,-0.0058807871444468,0.9889367167190354,2.14
+B,BMI adjusted,WMV_matter,Neuronal System | negative,Neuronal system · Lower,-0.0011089853326893,0.9889367167190354,2.42
+R,Renal adjusted,WMV_matter,Immune System | positive,Immune system · Higher,-0.0131953959215149,0.9084403990551874,3.05
+R,Renal adjusted,WMV_matter,Immune System | negative,Immune system · Lower,0.0100439955509852,0.9084403990551874,3.4
+R,Renal adjusted,WMV_matter,Metabolism | positive,Metabolism · Higher,-0.01339825485395,0.9084403990551874,3.75
+R,Renal adjusted,WMV_matter,Metabolism | negative,Metabolism · Lower,0.0178406765762699,0.9084403990551874,3.19
+R,Renal adjusted,WMV_matter,Hemostasis | positive,Hemostasis · Higher,-0.0032174260153757,0.9788348668067406,3.19
+R,Renal adjusted,WMV_matter,Hemostasis | negative,Hemostasis · Lower,-0.0004564244632307,0.9788348668067406,2.98
+R,Renal adjusted,WMV_matter,Extracellular matrix organization | positive,ECM organization · Higher,-0.0148533305014584,0.9084403990551874,3.4
+R,Renal adjusted,WMV_matter,Extracellular matrix organization | negative,ECM organization · Lower,0.0022999211177722,0.9788348668067406,2.98
+R,Renal adjusted,WMV_matter,Signal Transduction | positive,Signal transduction · Higher,-0.0117114980661893,0.9084403990551874,2.98
+R,Renal adjusted,WMV_matter,Signal Transduction | negative,Signal transduction · Lower,0.0102378051925594,0.9084403990551874,3.75
+R,Renal adjusted,WMV_matter,Neuronal System | positive,Neuronal system · Higher,-0.0055475220815396,0.9788348668067406,3.54
+R,Renal adjusted,WMV_matter,Neuronal System | negative,Neuronal system · Lower,-0.0010631225971615,0.9788348668067406,3.82
+G,Glycaemic adjusted,WMV_matter,Immune System | positive,Immune system · Higher,-0.0131909258232019,0.9789800107427502,4.050000000000001
+G,Glycaemic adjusted,WMV_matter,Immune System | negative,Immune system · Lower,0.0096987587935461,0.9789800107427502,4.75
+G,Glycaemic adjusted,WMV_matter,Metabolism | positive,Metabolism · Higher,-0.0135157654248157,0.9789800107427502,4.75
+G,Glycaemic adjusted,WMV_matter,Metabolism | negative,Metabolism · Lower,0.0173831011353593,0.9789800107427502,4.19
+G,Glycaemic adjusted,WMV_matter,Hemostasis | positive,Hemostasis · Higher,-0.0034557255327725,0.9789800107427502,4.19
+G,Glycaemic adjusted,WMV_matter,Hemostasis | negative,Hemostasis · Lower,-0.0010398247536935,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,WMV_matter,Extracellular matrix organization | positive,ECM organization · Higher,-0.0143321622953792,0.9789800107427502,4.4
+G,Glycaemic adjusted,WMV_matter,Extracellular matrix organization | negative,ECM organization · Lower,0.0020344566943478,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,WMV_matter,Signal Transduction | positive,Signal transduction · Higher,-0.0117874851770862,0.9789800107427502,3.9800000000000004
+G,Glycaemic adjusted,WMV_matter,Signal Transduction | negative,Signal transduction · Lower,0.0095946802321471,0.9789800107427502,4.4
+G,Glycaemic adjusted,WMV_matter,Neuronal System | positive,Neuronal system · Higher,-0.0055077871700833,0.9789800107427502,4.54
+G,Glycaemic adjusted,WMV_matter,Neuronal System | negative,Neuronal system · Lower,-0.0017268728724887,0.9789800107427502,4.82
+V,Vascular–lipid adjusted,WMV_matter,Immune System | positive,Immune system · Higher,-0.0132419845226883,0.9845990931347304,5.050000000000001
+V,Vascular–lipid adjusted,WMV_matter,Immune System | negative,Immune system · Lower,0.0142815144243514,0.9845990931347304,5.54
+V,Vascular–lipid adjusted,WMV_matter,Metabolism | positive,Metabolism · Higher,-0.0138995099283815,0.9845990931347304,5.75
+V,Vascular–lipid adjusted,WMV_matter,Metabolism | negative,Metabolism · Lower,0.0244312055015026,0.9845990931347304,5.4
+V,Vascular–lipid adjusted,WMV_matter,Hemostasis | positive,Hemostasis · Higher,-0.0032371016119111,0.9845990931347304,5.19
+V,Vascular–lipid adjusted,WMV_matter,Hemostasis | negative,Hemostasis · Lower,0.001283118761668,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,WMV_matter,Extracellular matrix organization | positive,ECM organization · Higher,-0.0146593494695275,0.9845990931347304,5.4
+V,Vascular–lipid adjusted,WMV_matter,Extracellular matrix organization | negative,ECM organization · Lower,0.0053282794434617,0.9845990931347304,5.4
+V,Vascular–lipid adjusted,WMV_matter,Signal Transduction | positive,Signal transduction · Higher,-0.0121147138032852,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,WMV_matter,Signal Transduction | negative,Signal transduction · Lower,0.0149030211166565,0.9845990931347304,5.19
+V,Vascular–lipid adjusted,WMV_matter,Neuronal System | positive,Neuronal system · Higher,-0.0052562055931463,0.9845990931347304,5.54
+V,Vascular–lipid adjusted,WMV_matter,Neuronal System | negative,Neuronal system · Lower,0.0006062436280125,0.9845990931347304,5.82
+F,Combined adjustment,WMV_matter,Immune System | positive,Immune system · Higher,-0.0131151486590041,0.9925700830154698,6.45
+F,Combined adjustment,WMV_matter,Immune System | negative,Immune system · Lower,0.0135606218506434,0.9925700830154698,6.8
+F,Combined adjustment,WMV_matter,Metabolism | positive,Metabolism · Higher,-0.01357096603826,0.9925700830154698,7.1499999999999995
+F,Combined adjustment,WMV_matter,Metabolism | negative,Metabolism · Lower,0.023718503616223,0.9925700830154698,6.8
+F,Combined adjustment,WMV_matter,Hemostasis | positive,Hemostasis · Higher,-0.0024018967057758,0.9925700830154698,7.1499999999999995
+F,Combined adjustment,WMV_matter,Hemostasis | negative,Hemostasis · Lower,0.0004535136901966,0.9925700830154698,6.38
+F,Combined adjustment,WMV_matter,Extracellular matrix organization | positive,ECM organization · Higher,-0.0148338723915412,0.9925700830154698,6.8
+F,Combined adjustment,WMV_matter,Extracellular matrix organization | negative,ECM organization · Lower,0.0043330365630095,0.9925700830154698,6.38
+F,Combined adjustment,WMV_matter,Signal Transduction | positive,Signal transduction · Higher,-0.0116401990306722,0.9925700830154698,6.38
+F,Combined adjustment,WMV_matter,Signal Transduction | negative,Signal transduction · Lower,0.0139628167044374,0.9925700830154698,7.1499999999999995
+F,Combined adjustment,WMV_matter,Neuronal System | positive,Neuronal system · Higher,-0.0048245752831088,0.9925700830154698,6.8
+F,Combined adjustment,WMV_matter,Neuronal System | negative,Neuronal system · Lower,0.000161711801816,0.9925700830154698,6.52
+Base,Basic covariates,VCSF,Immune System | positive,Immune system · Higher,0.028026122662657037,0.24091296046652683,-0.35000000000000003
+Base,Basic covariates,VCSF,Immune System | negative,Immune system · Lower,-0.009907952862894568,0.7423352048804961,0.0
+Base,Basic covariates,VCSF,Metabolism | positive,Metabolism · Higher,0.015943919704127063,0.6445404062217291,0.28
+Base,Basic covariates,VCSF,Metabolism | negative,Metabolism · Lower,-0.004624748118864578,0.9463510950580792,-0.28
+Base,Basic covariates,VCSF,Hemostasis | positive,Hemostasis · Higher,0.020886417356613646,0.4240223460640583,-0.14
+Base,Basic covariates,VCSF,Hemostasis | negative,Hemostasis · Lower,0.0005974218218728272,0.9885355451448373,0.0
+Base,Basic covariates,VCSF,Extracellular matrix organization | positive,ECM organization · Higher,0.03634420600040035,0.18207221354335582,-0.14
+Base,Basic covariates,VCSF,Extracellular matrix organization | negative,ECM organization · Lower,-0.0017359364719002138,0.9831443534479771,-0.42000000000000004
+Base,Basic covariates,VCSF,Signal Transduction | positive,Signal transduction · Higher,0.027984731239582925,0.24091296046652683,0.07
+Base,Basic covariates,VCSF,Signal Transduction | negative,Signal transduction · Lower,-0.006578490806997757,0.9271639735004522,0.28
+Base,Basic covariates,VCSF,Neuronal System | positive,Neuronal system · Higher,0.011651657995767575,0.7203991583381958,0.0
+Base,Basic covariates,VCSF,Neuronal System | negative,Neuronal system · Lower,-0.004132422287619709,0.9463510950580792,-0.42000000000000004
+A,CKM adjusted,VCSF,Immune System | positive,Immune system · Higher,0.0248770467266968,0.5758728844288755,1.0
+A,CKM adjusted,VCSF,Immune System | negative,Immune system · Lower,-0.0179885443436931,0.6617563614760446,1.0
+A,CKM adjusted,VCSF,Metabolism | positive,Metabolism · Higher,0.0114961977113662,0.8410923693587428,1.35
+A,CKM adjusted,VCSF,Metabolism | negative,Metabolism · Lower,-0.0121323335794618,0.8410923693587428,0.72
+A,CKM adjusted,VCSF,Hemostasis | positive,Hemostasis · Higher,0.0170256838418322,0.7295127890858472,0.79
+A,CKM adjusted,VCSF,Hemostasis | negative,Hemostasis · Lower,-0.0031584594181833,0.9756142915967596,1.28
+A,CKM adjusted,VCSF,Extracellular matrix organization | positive,ECM organization · Higher,0.0326980278674088,0.4840647596706382,0.79
+A,CKM adjusted,VCSF,Extracellular matrix organization | negative,ECM organization · Lower,-0.0075986122564299,0.8410923693587428,1.0
+A,CKM adjusted,VCSF,Signal Transduction | positive,Signal transduction · Higher,0.0248935689798943,0.5758728844288755,1.35
+A,CKM adjusted,VCSF,Signal Transduction | negative,Signal transduction · Lower,-0.013281926503051,0.8410923693587428,1.28
+A,CKM adjusted,VCSF,Neuronal System | positive,Neuronal system · Higher,0.0100049342910812,0.8410923693587428,1.0
+A,CKM adjusted,VCSF,Neuronal System | negative,Neuronal system · Lower,-0.0085828233530485,0.8410923693587428,0.58
+B,BMI adjusted,VCSF,Immune System | positive,Immune system · Higher,0.0278485086176045,0.9889367167190354,2.35
+B,BMI adjusted,VCSF,Immune System | negative,Immune system · Lower,-0.0167852486372739,0.9889367167190354,2.0
+B,BMI adjusted,VCSF,Metabolism | positive,Metabolism · Higher,0.01354150913856,0.9889367167190354,2.2800000000000002
+B,BMI adjusted,VCSF,Metabolism | negative,Metabolism · Lower,-0.0101543825847499,0.9889367167190354,1.72
+B,BMI adjusted,VCSF,Hemostasis | positive,Hemostasis · Higher,0.0191412025966868,0.9889367167190354,1.79
+B,BMI adjusted,VCSF,Hemostasis | negative,Hemostasis · Lower,-0.0019682780360685,0.9889367167190354,2.35
+B,BMI adjusted,VCSF,Extracellular matrix organization | positive,ECM organization · Higher,0.0354459687777667,0.9642404947531412,2.14
+B,BMI adjusted,VCSF,Extracellular matrix organization | negative,ECM organization · Lower,-0.0055713473822186,0.9889367167190354,1.58
+B,BMI adjusted,VCSF,Signal Transduction | positive,Signal transduction · Higher,0.0268788248766587,0.9889367167190354,2.0
+B,BMI adjusted,VCSF,Signal Transduction | negative,Signal transduction · Lower,-0.0115939637017837,0.9889367167190354,2.2800000000000002
+B,BMI adjusted,VCSF,Neuronal System | positive,Neuronal system · Higher,0.0106096547356314,0.9889367167190354,2.0
+B,BMI adjusted,VCSF,Neuronal System | negative,Neuronal system · Lower,-0.006419537798835,0.9889367167190354,2.0
+R,Renal adjusted,VCSF,Immune System | positive,Immune system · Higher,0.0302670825633966,0.9084403990551874,3.12
+R,Renal adjusted,VCSF,Immune System | negative,Immune system · Lower,-0.0169178218652766,0.9084403990551874,3.4
+R,Renal adjusted,VCSF,Metabolism | positive,Metabolism · Higher,0.0138299336754171,0.9084403990551874,3.6799999999999997
+R,Renal adjusted,VCSF,Metabolism | negative,Metabolism · Lower,-0.0102113285210678,0.9084403990551874,3.12
+R,Renal adjusted,VCSF,Hemostasis | positive,Hemostasis · Higher,0.0198538824477543,0.9084403990551874,3.26
+R,Renal adjusted,VCSF,Hemostasis | negative,Hemostasis · Lower,-0.0019869645212253,0.9788348668067406,3.75
+R,Renal adjusted,VCSF,Extracellular matrix organization | positive,ECM organization · Higher,0.0399206137554861,0.645742525476722,3.4
+R,Renal adjusted,VCSF,Extracellular matrix organization | negative,ECM organization · Lower,-0.005669716820395,0.9788348668067406,2.98
+R,Renal adjusted,VCSF,Signal Transduction | positive,Signal transduction · Higher,0.0281023337599234,0.9084403990551874,3.4699999999999998
+R,Renal adjusted,VCSF,Signal Transduction | negative,Signal transduction · Lower,-0.0116664712044652,0.9084403990551874,3.6799999999999997
+R,Renal adjusted,VCSF,Neuronal System | positive,Neuronal system · Higher,0.0106913142329987,0.9084403990551874,3.4
+R,Renal adjusted,VCSF,Neuronal System | negative,Neuronal system · Lower,-0.0064177583141936,0.9788348668067406,3.4
+G,Glycaemic adjusted,VCSF,Immune System | positive,Immune system · Higher,0.0273873915802637,0.9789800107427502,4.75
+G,Glycaemic adjusted,VCSF,Immune System | negative,Immune system · Lower,-0.0174297965550444,0.9789800107427502,4.4
+G,Glycaemic adjusted,VCSF,Metabolism | positive,Metabolism · Higher,0.0126515126007285,0.9789800107427502,4.75
+G,Glycaemic adjusted,VCSF,Metabolism | negative,Metabolism · Lower,-0.0113513454861004,0.9789800107427502,4.12
+G,Glycaemic adjusted,VCSF,Hemostasis | positive,Hemostasis · Higher,0.0185433521163971,0.9789800107427502,4.19
+G,Glycaemic adjusted,VCSF,Hemostasis | negative,Hemostasis · Lower,-0.0018543470822699,0.9789800107427502,4.680000000000001
+G,Glycaemic adjusted,VCSF,Extracellular matrix organization | positive,ECM organization · Higher,0.0351265926190769,0.9789800107427502,4.54
+G,Glycaemic adjusted,VCSF,Extracellular matrix organization | negative,ECM organization · Lower,-0.0065735966300525,0.9789800107427502,4.4
+G,Glycaemic adjusted,VCSF,Signal Transduction | positive,Signal transduction · Higher,0.0265503762085102,0.9789800107427502,4.4
+G,Glycaemic adjusted,VCSF,Signal Transduction | negative,Signal transduction · Lower,-0.0122396120998755,0.9789800107427502,4.680000000000001
+G,Glycaemic adjusted,VCSF,Neuronal System | positive,Neuronal system · Higher,0.0108296578544296,0.9789800107427502,4.4
+G,Glycaemic adjusted,VCSF,Neuronal System | negative,Neuronal system · Lower,-0.006164625960616,0.9789800107427502,3.9800000000000004
+V,Vascular–lipid adjusted,VCSF,Immune System | positive,Immune system · Higher,0.0250740623075021,0.9845990931347304,5.75
+V,Vascular–lipid adjusted,VCSF,Immune System | negative,Immune system · Lower,-0.0169773462972071,0.9845990931347304,5.4
+V,Vascular–lipid adjusted,VCSF,Metabolism | positive,Metabolism · Higher,0.0088625057935452,0.9845990931347304,4.98
+V,Vascular–lipid adjusted,VCSF,Metabolism | negative,Metabolism · Lower,-0.0107018451054211,0.9845990931347304,5.12
+V,Vascular–lipid adjusted,VCSF,Hemostasis | positive,Hemostasis · Higher,0.0151516575822081,0.9845990931347304,5.54
+V,Vascular–lipid adjusted,VCSF,Hemostasis | negative,Hemostasis · Lower,0.0023373864839025,0.9845990931347304,5.61
+V,Vascular–lipid adjusted,VCSF,Extracellular matrix organization | positive,ECM organization · Higher,0.032642554831894,0.9845990931347304,5.54
+V,Vascular–lipid adjusted,VCSF,Extracellular matrix organization | negative,ECM organization · Lower,-0.0053594479052757,0.9845990931347304,5.4
+V,Vascular–lipid adjusted,VCSF,Signal Transduction | positive,Signal transduction · Higher,0.023738917306084,0.9845990931347304,5.4
+V,Vascular–lipid adjusted,VCSF,Signal Transduction | negative,Signal transduction · Lower,-0.0112099156101842,0.9845990931347304,5.680000000000001
+V,Vascular–lipid adjusted,VCSF,Neuronal System | positive,Neuronal system · Higher,0.0073674139337842,0.9845990931347304,5.33
+V,Vascular–lipid adjusted,VCSF,Neuronal System | negative,Neuronal system · Lower,-0.0051034426013937,0.9845990931347304,4.98
+F,Combined adjustment,VCSF,Immune System | positive,Immune system · Higher,0.0268734526865041,0.9925700830154698,7.08
+F,Combined adjustment,VCSF,Immune System | negative,Immune system · Lower,-0.017629145874753,0.9925700830154698,6.8
+F,Combined adjustment,VCSF,Metabolism | positive,Metabolism · Higher,0.0083911835268536,0.9925700830154698,7.22
+F,Combined adjustment,VCSF,Metabolism | negative,Metabolism · Lower,-0.0118140335663181,0.9925700830154698,7.08
+F,Combined adjustment,VCSF,Hemostasis | positive,Hemostasis · Higher,0.0152991451447444,0.9925700830154698,6.87
+F,Combined adjustment,VCSF,Hemostasis | negative,Hemostasis · Lower,0.0025090793086736,0.9925700830154698,6.9399999999999995
+F,Combined adjustment,VCSF,Extracellular matrix organization | positive,ECM organization · Higher,0.0365843185268439,0.9925700830154698,6.8
+F,Combined adjustment,VCSF,Extracellular matrix organization | negative,ECM organization · Lower,-0.0061745636352278,0.9925700830154698,6.8
+F,Combined adjustment,VCSF,Signal Transduction | positive,Signal transduction · Higher,0.0246496273416655,0.9925700830154698,6.7299999999999995
+F,Combined adjustment,VCSF,Signal Transduction | negative,Signal transduction · Lower,-0.0117358415448436,0.9925700830154698,6.52
+F,Combined adjustment,VCSF,Neuronal System | positive,Neuronal system · Higher,0.0077516464505174,0.9925700830154698,6.66
+F,Combined adjustment,VCSF,Neuronal System | negative,Neuronal system · Lower,-0.0047059106293848,0.9925700830154698,6.38

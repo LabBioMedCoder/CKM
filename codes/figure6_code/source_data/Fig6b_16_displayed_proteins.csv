@@ -1,0 +1,17 @@
+protein,selection_freq,mean_weight,sd_weight,f4_direction_class,f4_anchor_freq,cat_Immune System,cat_Metabolism,cat_Hemostasis,cat_Extracellular matrix organization,cat_Signal Transduction,cat_Neuronal System,direction
+ACE,1.0,0.06856503,0.004195521,all_higher,0.0,False,False,False,False,False,False,Higher
+LEP,1.0,0.054066118,0.004425441,all_higher,1.0,False,False,False,False,True,False,Higher
+HAVCR1,1.0,0.05058389,0.002376751,all_higher,1.0,False,False,False,False,False,False,Higher
+FABP4,1.0,0.04688277,0.0038565788,all_higher,1.0,False,True,False,False,False,False,Higher
+PCSK9,1.0,0.04258406,0.002458797,all_higher,1.0,False,False,False,False,False,False,Higher
+REN,1.0,0.035300605,0.002421024,all_higher,0.04,False,False,False,False,False,False,Higher
+CRIM1,1.0,0.02538045,0.0025823074,discordant,0.0,False,False,False,False,False,False,Higher
+VWC2,1.0,0.02475487,0.0025165526,all_higher,1.0,False,False,False,False,False,False,Higher
+PLAU,1.0,-0.017880144,0.0033454946,discordant,0.0,True,False,True,False,False,False,Lower
+AGER,1.0,-0.018891342,0.0023810507,all_lower,0.0,True,False,False,False,False,False,Lower
+EDA2R,1.0,-0.020158077,0.0028840688,all_higher,0.84,True,False,False,False,False,False,Lower
+CTSB,1.0,-0.021256061,0.0022031541,all_lower,1.0,True,False,False,True,False,False,Lower
+UMOD,1.0,-0.02171359,0.0017765876,all_lower,1.0,False,False,False,False,False,False,Lower
+ENG,1.0,-0.026734168,0.0028203204,all_lower,1.0,False,False,False,False,False,False,Lower
+PLA2G7,1.0,-0.027593777,0.0025122291,discordant,0.0,False,False,False,False,False,False,Lower
+ADGRG2,1.0,-0.030489836,0.0033312237,all_lower,1.0,False,False,False,False,False,False,Lower

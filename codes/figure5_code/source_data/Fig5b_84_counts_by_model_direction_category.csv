@@ -1,0 +1,85 @@
+model,direction,category,FDR_significant,model_label,direction_label
+Base,positive,Immune System,7,Basic covariates,Higher
+Base,positive,Metabolism,4,Basic covariates,Higher
+Base,positive,Hemostasis,5,Basic covariates,Higher
+Base,positive,Extracellular matrix organization,5,Basic covariates,Higher
+Base,positive,Signal Transduction,2,Basic covariates,Higher
+Base,positive,Neuronal System,1,Basic covariates,Higher
+Base,negative,Immune System,15,Basic covariates,Lower
+Base,negative,Metabolism,38,Basic covariates,Lower
+Base,negative,Hemostasis,8,Basic covariates,Lower
+Base,negative,Extracellular matrix organization,57,Basic covariates,Lower
+Base,negative,Signal Transduction,32,Basic covariates,Lower
+Base,negative,Neuronal System,41,Basic covariates,Lower
+A,positive,Immune System,2,CKM adjusted,Higher
+A,positive,Metabolism,0,CKM adjusted,Higher
+A,positive,Hemostasis,1,CKM adjusted,Higher
+A,positive,Extracellular matrix organization,0,CKM adjusted,Higher
+A,positive,Signal Transduction,0,CKM adjusted,Higher
+A,positive,Neuronal System,0,CKM adjusted,Higher
+A,negative,Immune System,4,CKM adjusted,Lower
+A,negative,Metabolism,15,CKM adjusted,Lower
+A,negative,Hemostasis,3,CKM adjusted,Lower
+A,negative,Extracellular matrix organization,20,CKM adjusted,Lower
+A,negative,Signal Transduction,10,CKM adjusted,Lower
+A,negative,Neuronal System,10,CKM adjusted,Lower
+B,positive,Immune System,0,BMI adjusted,Higher
+B,positive,Metabolism,0,BMI adjusted,Higher
+B,positive,Hemostasis,1,BMI adjusted,Higher
+B,positive,Extracellular matrix organization,0,BMI adjusted,Higher
+B,positive,Signal Transduction,0,BMI adjusted,Higher
+B,positive,Neuronal System,0,BMI adjusted,Higher
+B,negative,Immune System,0,BMI adjusted,Lower
+B,negative,Metabolism,2,BMI adjusted,Lower
+B,negative,Hemostasis,1,BMI adjusted,Lower
+B,negative,Extracellular matrix organization,6,BMI adjusted,Lower
+B,negative,Signal Transduction,1,BMI adjusted,Lower
+B,negative,Neuronal System,1,BMI adjusted,Lower
+R,positive,Immune System,1,Renal adjusted,Higher
+R,positive,Metabolism,0,Renal adjusted,Higher
+R,positive,Hemostasis,1,Renal adjusted,Higher
+R,positive,Extracellular matrix organization,0,Renal adjusted,Higher
+R,positive,Signal Transduction,0,Renal adjusted,Higher
+R,positive,Neuronal System,0,Renal adjusted,Higher
+R,negative,Immune System,0,Renal adjusted,Lower
+R,negative,Metabolism,2,Renal adjusted,Lower
+R,negative,Hemostasis,1,Renal adjusted,Lower
+R,negative,Extracellular matrix organization,6,Renal adjusted,Lower
+R,negative,Signal Transduction,3,Renal adjusted,Lower
+R,negative,Neuronal System,1,Renal adjusted,Lower
+G,positive,Immune System,0,Glycaemic adjusted,Higher
+G,positive,Metabolism,0,Glycaemic adjusted,Higher
+G,positive,Hemostasis,0,Glycaemic adjusted,Higher
+G,positive,Extracellular matrix organization,0,Glycaemic adjusted,Higher
+G,positive,Signal Transduction,0,Glycaemic adjusted,Higher
+G,positive,Neuronal System,0,Glycaemic adjusted,Higher
+G,negative,Immune System,0,Glycaemic adjusted,Lower
+G,negative,Metabolism,1,Glycaemic adjusted,Lower
+G,negative,Hemostasis,1,Glycaemic adjusted,Lower
+G,negative,Extracellular matrix organization,6,Glycaemic adjusted,Lower
+G,negative,Signal Transduction,1,Glycaemic adjusted,Lower
+G,negative,Neuronal System,1,Glycaemic adjusted,Lower
+V,positive,Immune System,0,Vascular–lipid adjusted,Higher
+V,positive,Metabolism,0,Vascular–lipid adjusted,Higher
+V,positive,Hemostasis,0,Vascular–lipid adjusted,Higher
+V,positive,Extracellular matrix organization,0,Vascular–lipid adjusted,Higher
+V,positive,Signal Transduction,0,Vascular–lipid adjusted,Higher
+V,positive,Neuronal System,0,Vascular–lipid adjusted,Higher
+V,negative,Immune System,0,Vascular–lipid adjusted,Lower
+V,negative,Metabolism,0,Vascular–lipid adjusted,Lower
+V,negative,Hemostasis,0,Vascular–lipid adjusted,Lower
+V,negative,Extracellular matrix organization,3,Vascular–lipid adjusted,Lower
+V,negative,Signal Transduction,0,Vascular–lipid adjusted,Lower
+V,negative,Neuronal System,0,Vascular–lipid adjusted,Lower
+F,positive,Immune System,0,Combined adjustment,Higher
+F,positive,Metabolism,0,Combined adjustment,Higher
+F,positive,Hemostasis,0,Combined adjustment,Higher
+F,positive,Extracellular matrix organization,0,Combined adjustment,Higher
+F,positive,Signal Transduction,0,Combined adjustment,Higher
+F,positive,Neuronal System,0,Combined adjustment,Higher
+F,negative,Immune System,0,Combined adjustment,Lower
+F,negative,Metabolism,0,Combined adjustment,Lower
+F,negative,Hemostasis,0,Combined adjustment,Lower
+F,negative,Extracellular matrix organization,3,Combined adjustment,Lower
+F,negative,Signal Transduction,0,Combined adjustment,Lower
+F,negative,Neuronal System,0,Combined adjustment,Lower

@@ -1,0 +1,8 @@
+model,model_label,Basic,CKM stage,BMI,eGFR,HbA1c + diabetes,BP + lipids
+Base,Basic covariates,1,0,0,0,0,0
+A,CKM adjusted,1,1,0,0,0,0
+B,BMI adjusted,1,1,1,0,0,0
+R,Renal adjusted,1,1,1,1,0,0
+G,Glycaemic adjusted,1,1,1,0,1,0
+V,Vascular–lipid adjusted,1,1,1,0,0,1
+F,Combined adjustment,1,1,1,1,1,1

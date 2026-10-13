@@ -1,0 +1,8 @@
+intersection,pattern,all_higher,all_lower,discordant,total
+"Stages 1, 2 and 3",S111,1656,178,143,1977
+Stage 1 + Stage 2 only,S110,117,147,5,269
+Stage 2 + Stage 3 only,S011,93,5,14,112
+Stage 3 only,S001,85,10,0,95
+Stage 1 + Stage 3 only,S101,21,1,50,72
+Stage 2 only,S010,27,43,0,70
+Stage 1 only,S100,14,20,0,34

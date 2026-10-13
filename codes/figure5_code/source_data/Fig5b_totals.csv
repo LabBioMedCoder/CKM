@@ -1,0 +1,8 @@
+model,model_label,lower_modules,higher_modules,total
+Base,Basic covariates,191,24,215
+A,CKM adjusted,62,3,65
+B,BMI adjusted,11,1,12
+R,Renal adjusted,13,2,15
+G,Glycaemic adjusted,10,0,10
+V,Vascular–lipid adjusted,3,0,3
+F,Combined adjustment,3,0,3

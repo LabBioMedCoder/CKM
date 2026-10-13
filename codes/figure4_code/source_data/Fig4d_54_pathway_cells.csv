@@ -1,0 +1,55 @@
+pathway,pathway_id,top_level,contrast,selection,overlap_k,pathway_background_K,fold_enrichment,p_value,q_bh,testing_family_size
+Innate Immune System,R-HSA-168249,Immune System,stage_f1,positive_FDR,280,357,1.2285872954846428,6.667259341282521e-11,7.600675649062074e-08,1140
+Innate Immune System,R-HSA-168249,Immune System,stage_f2,positive_FDR,286,357,1.192558182693367,2.710974790352228e-09,3.09051126100154e-06,1140
+Innate Immune System,R-HSA-168249,Immune System,stage_f3,positive_FDR,295,357,1.1703184228386037,9.798535230899512e-09,1.1170330163225444e-05,1140
+Innate Immune System,R-HSA-168249,Immune System,stage_f1,negative_FDR,34,357,0.556716995741386,0.9999964983164746,1.0,1140
+Innate Immune System,R-HSA-168249,Immune System,stage_f2,negative_FDR,37,357,0.6192648804674226,0.9999222094618198,1.0,1140
+Innate Immune System,R-HSA-168249,Immune System,stage_f3,negative_FDR,14,357,0.5677062771417293,0.9966123100104082,1.0,1140
+Neutrophil degranulation,R-HSA-6798695,Immune System,stage_f1,positive_FDR,154,190,1.2696479761495243,5.1980807566264265e-08,2.9629060312770627e-05,1140
+Neutrophil degranulation,R-HSA-6798695,Immune System,stage_f2,positive_FDR,159,190,1.2457338999673098,7.103445728236767e-08,4.048964065094957e-05,1140
+Neutrophil degranulation,R-HSA-6798695,Immune System,stage_f3,positive_FDR,165,190,1.229930538756609,3.2518666149033456e-08,1.853563970494907e-05,1140
+Neutrophil degranulation,R-HSA-6798695,Immune System,stage_f1,negative_FDR,17,190,0.5230209670517758,0.9997286262170698,1.0,1140
+Neutrophil degranulation,R-HSA-6798695,Immune System,stage_f2,negative_FDR,18,190,0.5660591923020849,0.9990013047140331,1.0,1140
+Neutrophil degranulation,R-HSA-6798695,Immune System,stage_f3,negative_FDR,8,190,0.6095372659837514,0.9616713619089916,1.0,1140
+CS-GAG biosynthesis,R-HSA-2022870,Metabolism,stage_f1,positive_FDR,0,7,0.0,1.0,1.0,1140
+CS-GAG biosynthesis,R-HSA-2022870,Metabolism,stage_f2,positive_FDR,0,7,0.0,1.0,1.0,1140
+CS-GAG biosynthesis,R-HSA-2022870,Metabolism,stage_f3,positive_FDR,1,7,0.2023262358127755,0.9998148721907782,1.0,1140
+CS-GAG biosynthesis,R-HSA-2022870,Metabolism,stage_f1,negative_FDR,7,7,5.845528455284552,4.088873035026131e-06,0.0007768858766549,1140
+CS-GAG biosynthesis,R-HSA-2022870,Metabolism,stage_f2,negative_FDR,7,7,5.975069252077562,3.5027985620709405e-06,0.0006655317267934,1140
+CS-GAG biosynthesis,R-HSA-2022870,Metabolism,stage_f3,negative_FDR,4,7,8.272291466922338,0.0006501055372525,0.053410262538673,1140
+DS-GAG biosynthesis,R-HSA-2022923,Metabolism,stage_f1,positive_FDR,0,7,0.0,1.0,1.0,1140
+DS-GAG biosynthesis,R-HSA-2022923,Metabolism,stage_f2,positive_FDR,0,7,0.0,1.0,1.0,1140
+DS-GAG biosynthesis,R-HSA-2022923,Metabolism,stage_f3,positive_FDR,1,7,0.2023262358127755,0.9998148721907782,1.0,1140
+DS-GAG biosynthesis,R-HSA-2022923,Metabolism,stage_f1,negative_FDR,7,7,5.845528455284552,4.088873035026131e-06,0.0007768858766549,1140
+DS-GAG biosynthesis,R-HSA-2022923,Metabolism,stage_f2,negative_FDR,7,7,5.975069252077562,3.5027985620709405e-06,0.0006655317267934,1140
+DS-GAG biosynthesis,R-HSA-2022923,Metabolism,stage_f3,negative_FDR,4,7,8.272291466922338,0.0006501055372525,0.053410262538673,1140
+Hemostasis,R-HSA-109582,Hemostasis,stage_f1,positive_FDR,161,210,1.2009440813362382,1.971461754742544e-05,0.0057142351890143,1140
+Hemostasis,R-HSA-109582,Hemostasis,stage_f2,positive_FDR,163,210,1.1554471063787837,0.0003312377239881,0.053944429335206,1140
+Hemostasis,R-HSA-109582,Hemostasis,stage_f3,positive_FDR,166,210,1.1195385048306914,0.0024321310944643,0.3080699386321489,1140
+Hemostasis,R-HSA-109582,Hemostasis,stage_f1,negative_FDR,27,210,0.751567944250871,0.9688207526677683,1.0,1140
+Hemostasis,R-HSA-109582,Hemostasis,stage_f2,negative_FDR,27,210,0.7682231895528294,0.9572088353596032,1.0,1140
+Hemostasis,R-HSA-109582,Hemostasis,stage_f3,negative_FDR,11,210,0.7582933844678812,0.8772540571501288,1.0,1140
+"Platelet activation, signaling and aggregation",R-HSA-76002,Hemostasis,stage_f1,positive_FDR,79,95,1.3026258456599014,2.004994803162915e-05,0.0057142351890143,1140
+"Platelet activation, signaling and aggregation",R-HSA-76002,Hemostasis,stage_f2,positive_FDR,81,95,1.26923831317424,3.784176899634728e-05,0.0105121065461622,1140
+"Platelet activation, signaling and aggregation",R-HSA-76002,Hemostasis,stage_f3,positive_FDR,75,95,1.1181186715969174,0.0406369585344186,1.0,1140
+"Platelet activation, signaling and aggregation",R-HSA-76002,Hemostasis,stage_f1,negative_FDR,9,95,0.5537869062901156,0.9891873436813527,1.0,1140
+"Platelet activation, signaling and aggregation",R-HSA-76002,Hemostasis,stage_f2,negative_FDR,8,95,0.5031637264907421,0.9944762647114934,1.0,1140
+"Platelet activation, signaling and aggregation",R-HSA-76002,Hemostasis,stage_f3,negative_FDR,4,95,0.6095372659837514,0.9057499248963824,1.0,1140
+ECM proteoglycans,R-HSA-3000178,Extracellular matrix organization,stage_f1,positive_FDR,14,43,0.5100065866139738,0.9999936964289567,1.0,1140
+ECM proteoglycans,R-HSA-3000178,Extracellular matrix organization,stage_f2,positive_FDR,17,43,0.5885213539409698,0.9999545912508968,1.0,1140
+ECM proteoglycans,R-HSA-3000178,Extracellular matrix organization,stage_f3,positive_FDR,21,43,0.6916734108018141,0.9992872165623032,1.0,1140
+ECM proteoglycans,R-HSA-3000178,Extracellular matrix organization,stage_f1,negative_FDR,21,43,2.8547929665343164,1.2416384580574558e-06,0.0007768858766549,1140
+ECM proteoglycans,R-HSA-3000178,Extracellular matrix organization,stage_f2,negative_FDR,22,43,3.057012175481544,1.5923715416786273e-07,0.0001815303557513,1140
+ECM proteoglycans,R-HSA-3000178,Extracellular matrix organization,stage_f3,negative_FDR,14,43,4.7132823474324965,4.216688089668138e-07,0.0004807024422221,1140
+Hedgehog 'on' state,R-HSA-5632684,Signal Transduction,stage_f1,positive_FDR,3,8,0.5874183006535949,0.9703056376204728,1.0,1140
+Hedgehog 'on' state,R-HSA-5632684,Signal Transduction,stage_f2,positive_FDR,3,8,0.5582298136645963,0.9820388072627804,1.0,1140
+Hedgehog 'on' state,R-HSA-5632684,Signal Transduction,stage_f3,positive_FDR,3,8,0.5311063690085358,0.9899977953816076,1.0,1140
+Hedgehog 'on' state,R-HSA-5632684,Signal Transduction,stage_f1,negative_FDR,4,8,2.9227642276422765,0.0332135219406574,0.4352116668086143,1140
+Hedgehog 'on' state,R-HSA-5632684,Signal Transduction,stage_f2,negative_FDR,4,8,2.9875346260387814,0.030825563817009,0.3993311676294354,1140
+Hedgehog 'on' state,R-HSA-5632684,Signal Transduction,stage_f3,negative_FDR,5,8,9.047818791946307,6.962780673546592e-05,0.0396878498392155,1140
+Diseases associated with glycosaminoglycan metabolism,R-HSA-3560782,Disease,stage_f1,positive_FDR,8,19,0.659557390207545,0.9851870742258574,1.0,1140
+Diseases associated with glycosaminoglycan metabolism,R-HSA-3560782,Disease,stage_f2,positive_FDR,7,19,0.5484363081617086,0.9984733117500072,1.0,1140
+Diseases associated with glycosaminoglycan metabolism,R-HSA-3560782,Disease,stage_f3,positive_FDR,8,19,0.5963299581850227,0.9977695420897676,1.0,1140
+Diseases associated with glycosaminoglycan metabolism,R-HSA-3560782,Disease,stage_f1,negative_FDR,9,19,2.768934531450578,0.002108112264706,0.109238544625678,1140
+Diseases associated with glycosaminoglycan metabolism,R-HSA-3560782,Disease,stage_f2,negative_FDR,10,19,3.144773290567138,0.0003394481228946,0.0322475716749927,1140
+Diseases associated with glycosaminoglycan metabolism,R-HSA-3560782,Disease,stage_f3,negative_FDR,7,19,5.333451077357824,0.0001624146381118,0.0462881718618832,1140

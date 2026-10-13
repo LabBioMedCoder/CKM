@@ -1,0 +1,82 @@
+column,outcome,comparison,metric,estimate,lo,hi,J
+Harrell ΔC,Dementia,CKM-PS added to M2 (primary),C,0.0006963598202062,-0.000387648359897,0.0017803680003096,50
+Harrell ΔC,Alzheimers_disease,CKM-PS added to M2 (primary),C,-5.814425333991569e-05,-0.0006444423830948,0.000528153876415,50
+Harrell ΔC,Parkinsons_disease,CKM-PS added to M2 (primary),C,0.0002571346320186,-0.0021238873584239,0.0026381566224612,50
+Harrell ΔC,Stroke,CKM-PS added to M2 (primary),C,0.0015568398688028,-0.0002068398829005,0.0033205196205062,50
+Harrell ΔC,Depression,CKM-PS added to M2 (primary),C,0.0011329435711026,-0.000713392303479,0.0029792794456844,50
+Harrell ΔC,Anxiety_disorder,CKM-PS added to M2 (primary),C,-0.0002698809271156,-0.0007370011918166,0.0001972393375852,50
+Harrell ΔC,Bipolar_disorder,CKM-PS added to M2 (primary),C,-0.0003660281128394,-0.0061939969283817,0.0054619407027028,50
+Harrell ΔC,Schizophrenia,CKM-PS added to M2 (primary),C,0.0020884152514837,-0.0058434718970176,0.0100203023999852,50
+Harrell ΔC,Sleep_disorder,CKM-PS added to M2 (primary),C,0.000948098580169,-0.0016958378079633,0.0035920349683015,50
+Age-stratified ΔC,Dementia,CKM-PS added to M2 (primary),C_age,0.001448839154356,-0.0009432295167749,0.003840907825487,50
+Age-stratified ΔC,Alzheimers_disease,CKM-PS added to M2 (primary),C_age,-0.0001422801248905,-0.0015243226349053,0.0012397623851242,50
+Age-stratified ΔC,Parkinsons_disease,CKM-PS added to M2 (primary),C_age,-0.0002538717780113,-0.0057607368435823,0.0052529932875596,50
+Age-stratified ΔC,Stroke,CKM-PS added to M2 (primary),C_age,0.0015497167077263,-0.0023205819287915,0.0054200153442441,50
+Age-stratified ΔC,Depression,CKM-PS added to M2 (primary),C_age,0.0011306829164798,-0.0007166542037214,0.0029780200366811,50
+Age-stratified ΔC,Anxiety_disorder,CKM-PS added to M2 (primary),C_age,-0.0002634799877434,-0.0007681241047143,0.0002411641292274,50
+Age-stratified ΔC,Bipolar_disorder,CKM-PS added to M2 (primary),C_age,-0.0004591151794004,-0.0059564795005472,0.0050382491417463,50
+Age-stratified ΔC,Schizophrenia,CKM-PS added to M2 (primary),C_age,0.00102479615003,-0.0064888605838895,0.0085384528839497,50
+Age-stratified ΔC,Sleep_disorder,CKM-PS added to M2 (primary),C_age,0.0010067127133637,-0.0016248777083949,0.0036383031351224,50
+2-year landmark ΔC,Dementia,CKM-PS added to M2 (primary),C_landmark2,0.0003725714556813,-0.0006715056776349,0.0014166485889976,50
+2-year landmark ΔC,Alzheimers_disease,CKM-PS added to M2 (primary),C_landmark2,-0.0001536447560909,-0.0007045634325995,0.0003972739204176,50
+2-year landmark ΔC,Parkinsons_disease,CKM-PS added to M2 (primary),C_landmark2,-0.0002673242145418,-0.0030200374701019,0.0024853890410183,50
+2-year landmark ΔC,Stroke,CKM-PS added to M2 (primary),C_landmark2,0.0011804997682503,-0.000683406577241,0.0030444061137418,50
+2-year landmark ΔC,Depression,CKM-PS added to M2 (primary),C_landmark2,0.0015644794252991,-0.0001409016886115,0.0032698605392099,50
+2-year landmark ΔC,Anxiety_disorder,CKM-PS added to M2 (primary),C_landmark2,-0.0002579532915478,-0.0007187876486061,0.0002028810655103,50
+2-year landmark ΔC,Bipolar_disorder,CKM-PS added to M2 (primary),C_landmark2,0.0003571691961779,-0.0048710595892503,0.0055853979816062,50
+2-year landmark ΔC,Schizophrenia,CKM-PS added to M2 (primary),C_landmark2,-0.0003870064870158,-0.0090344741265643,0.0082604611525327,50
+2-year landmark ΔC,Sleep_disorder,CKM-PS added to M2 (primary),C_landmark2,0.000508453156166,-0.0021510956827716,0.0031680019951037,50
+Δ10-year AUC,Dementia,CKM-PS added to M2 (primary),AUC10,0.0004949532622051,-0.0009237527134587,0.001913659237869,50
+Δ10-year AUC,Alzheimers_disease,CKM-PS added to M2 (primary),AUC10,-0.0002936470797439,-0.0011369093668894,0.0005496152074015,50
+Δ10-year AUC,Parkinsons_disease,CKM-PS added to M2 (primary),AUC10,-0.0001970178428001,-0.0029473926397181,0.0025533569541178,50
+Δ10-year AUC,Stroke,CKM-PS added to M2 (primary),AUC10,0.0010646557991715,-0.0011574901026,0.0032868017009431,50
+Δ10-year AUC,Depression,CKM-PS added to M2 (primary),AUC10,0.0014974159430989,-0.0004656399251167,0.0034604718113146,50
+Δ10-year AUC,Anxiety_disorder,CKM-PS added to M2 (primary),AUC10,-0.0002058671432513,-0.0008215593870337,0.000409825100531,50
+Δ10-year AUC,Bipolar_disorder,CKM-PS added to M2 (primary),AUC10,-0.0002963459563604,-0.0060498849306218,0.005457193017901,50
+Δ10-year AUC,Schizophrenia,CKM-PS added to M2 (primary),AUC10,0.0020252565252432,-0.0070594925560933,0.0111100056065797,50
+Δ10-year AUC,Sleep_disorder,CKM-PS added to M2 (primary),AUC10,0.0016442383666018,-0.0011186277224115,0.0044071044556152,50
+Δ10-year IPA,Dementia,CKM-PS added to M2 (primary),IPA10,-0.0013473634346353,-0.0035992265827926,0.0009044997135219,50
+Δ10-year IPA,Alzheimers_disease,CKM-PS added to M2 (primary),IPA10,-0.0010621440358891,-0.0028191211399495,0.0006948330681712,50
+Δ10-year IPA,Parkinsons_disease,CKM-PS added to M2 (primary),IPA10,-0.0001011801728253,-0.0008329021015708,0.0006305417559201,50
+Δ10-year IPA,Stroke,CKM-PS added to M2 (primary),IPA10,-0.0002220898829736,-0.0012966012759671,0.0008524215100198,50
+Δ10-year IPA,Depression,CKM-PS added to M2 (primary),IPA10,0.0003487831399648,-0.0004439628817151,0.0011415291616447,50
+Δ10-year IPA,Anxiety_disorder,CKM-PS added to M2 (primary),IPA10,-5.903278662642365e-05,-0.0001857020120726,6.763643881979817e-05,50
+Δ10-year IPA,Bipolar_disorder,CKM-PS added to M2 (primary),IPA10,0.0002025239344308,-0.0012468387253829,0.0016518865942446,50
+Δ10-year IPA,Schizophrenia,CKM-PS added to M2 (primary),IPA10,0.0031636660572356,-0.0020179286622486,0.00834526077672,50
+Δ10-year IPA,Sleep_disorder,CKM-PS added to M2 (primary),IPA10,0.0008768033702731,-0.0003881520392907,0.002141758779837,50
+"Figure 4-anchored
+score, ΔC",Dementia,Figure 4-anchored score added to M2,C,-0.0002066696693883,-0.0007890572133,0.0003757178745232,50
+"Figure 4-anchored
+score, ΔC",Alzheimers_disease,Figure 4-anchored score added to M2,C,-0.0004589126202992,-0.0012552289144895,0.000337403673891,50
+"Figure 4-anchored
+score, ΔC",Parkinsons_disease,Figure 4-anchored score added to M2,C,-6.921791192773031e-05,-0.0014175219271835,0.0012790861033281,50
+"Figure 4-anchored
+score, ΔC",Stroke,Figure 4-anchored score added to M2,C,0.0002001638510788,-0.0011059052152499,0.0015062329174076,50
+"Figure 4-anchored
+score, ΔC",Depression,Figure 4-anchored score added to M2,C,0.0013138836972578,-0.0005088966883663,0.0031366640828819,50
+"Figure 4-anchored
+score, ΔC",Anxiety_disorder,Figure 4-anchored score added to M2,C,0.0003683303393935,-0.0013291330289518,0.002065793707739,50
+"Figure 4-anchored
+score, ΔC",Bipolar_disorder,Figure 4-anchored score added to M2,C,0.0008905167240487,-0.0057042800547875,0.0074853135028851,50
+"Figure 4-anchored
+score, ΔC",Schizophrenia,Figure 4-anchored score added to M2,C,0.0037870983375344,-0.0019937512901846,0.0095679479652535,50
+"Figure 4-anchored
+score, ΔC",Sleep_disorder,Figure 4-anchored score added to M2,C,0.000318512280968,-0.0009340405503937,0.0015710651123298,50
+"Non-deconfounded
+score, ΔC",Dementia,Non-deconfounded score added to M2 (repeat 0),C,0.0014795593701976,-0.0016512172930533,0.0046103360334485,5
+"Non-deconfounded
+score, ΔC",Alzheimers_disease,Non-deconfounded score added to M2 (repeat 0),C,0.0001710297799073,-0.0024546250387085,0.0027966845985231,5
+"Non-deconfounded
+score, ΔC",Parkinsons_disease,Non-deconfounded score added to M2 (repeat 0),C,0.0003636100064451,-0.0016761960358995,0.0024034160487898,5
+"Non-deconfounded
+score, ΔC",Stroke,Non-deconfounded score added to M2 (repeat 0),C,0.0022187957015638,-0.0014870830322876,0.0059246744354152,5
+"Non-deconfounded
+score, ΔC",Depression,Non-deconfounded score added to M2 (repeat 0),C,0.0012407489602716,-0.0030173016431033,0.0054987995636467,5
+"Non-deconfounded
+score, ΔC",Anxiety_disorder,Non-deconfounded score added to M2 (repeat 0),C,-3.284645736087999e-05,-0.000713129189246,0.0006474362745243,5
+"Non-deconfounded
+score, ΔC",Bipolar_disorder,Non-deconfounded score added to M2 (repeat 0),C,-0.0006130411747296,-0.0162468457246783,0.0150207633752191,5
+"Non-deconfounded
+score, ΔC",Schizophrenia,Non-deconfounded score added to M2 (repeat 0),C,0.0018713541592739,-0.0024666160826505,0.0062093244011984,5
+"Non-deconfounded
+score, ΔC",Sleep_disorder,Non-deconfounded score added to M2 (repeat 0),C,0.0016552213415468,-0.004920124242853,0.0082305669259467,5
